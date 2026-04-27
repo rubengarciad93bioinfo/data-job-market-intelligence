@@ -56,8 +56,8 @@ Data Science,GCP,35,244,14.34
 Data Science,Power BI,30,244,12.3
 Data Science,Azure,27,244,11.07
 Data Science,Docker / Kubernetes,25,244,10.25
-Data Science,Excel,19,244,7.79
 Data Science,Git,19,244,7.79
+Data Science,Excel,19,244,7.79
 Data Science,Airflow,6,244,2.46
 Machine Learning / AI,Machine Learning,173,181,95.58
 Machine Learning / AI,Python,141,181,77.9
@@ -67,8 +67,8 @@ Machine Learning / AI,AWS,45,181,24.86
 Machine Learning / AI,Azure,44,181,24.31
 Machine Learning / AI,SQL,43,181,23.76
 Machine Learning / AI,GCP,40,181,22.1
-Machine Learning / AI,Docker / Kubernetes,28,181,15.47
 Machine Learning / AI,R,28,181,15.47
+Machine Learning / AI,Docker / Kubernetes,28,181,15.47
 Machine Learning / AI,Git,18,181,9.94
 Machine Learning / AI,Power BI,6,181,3.31
 Machine Learning / AI,Airflow,5,181,2.76

@@ -1,0 +1,21 @@
+role_category,seniority_level,n_jobs,pct_jobs_in_role,n_jobs_with_clean_salary,median_salary,n_remote_explicit,pct_remote_explicit
+Business Intelligence,Senior / Lead,50,34.97,22,138750.0,12.0,24.0
+Business Intelligence,Mid-Senior / Unspecified,42,29.37,17,114400.0,15.0,35.71
+Business Intelligence,Unspecified,39,27.27,12,101250.0,9.0,23.08
+Business Intelligence,Junior / Entry,12,8.39,7,95000.0,2.0,16.67
+Data Analytics,Mid-Senior / Unspecified,324,31.86,104,102400.0,73.0,22.53
+Data Analytics,Unspecified,323,31.76,86,89720.0,110.0,34.06
+Data Analytics,Senior / Lead,197,19.37,66,121225.0,42.0,21.32
+Data Analytics,Junior / Entry,173,17.01,41,81120.0,62.0,35.84
+Data Engineering,Senior / Lead,175,41.77,65,156000.0,63.0,36.0
+Data Engineering,Unspecified,96,22.91,18,130382.0,30.0,31.25
+Data Engineering,Mid-Senior / Unspecified,83,19.81,29,135200.0,27.0,32.53
+Data Engineering,Junior / Entry,65,15.51,20,135294.0,12.0,18.46
+Data Science,Senior / Lead,92,37.7,31,171600.0,27.0,29.35
+Data Science,Junior / Entry,66,27.05,29,122500.0,14.0,21.21
+Data Science,Unspecified,51,20.9,13,162200.0,19.0,37.25
+Data Science,Mid-Senior / Unspecified,35,14.34,15,157049.0,14.0,40.0
+Machine Learning / AI,Senior / Lead,78,43.09,26,191589.0,27.0,34.62
+Machine Learning / AI,Unspecified,45,24.86,14,185500.0,9.0,20.0
+Machine Learning / AI,Mid-Senior / Unspecified,36,19.89,14,173400.0,12.0,33.33
+Machine Learning / AI,Junior / Entry,22,12.15,8,172150.0,5.0,22.73

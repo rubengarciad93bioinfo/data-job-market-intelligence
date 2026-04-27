@@ -1,0 +1,200 @@
+role_category,seniority_level,skill_rank,skill,n_jobs,total_jobs,pct_jobs_in_group
+Business Intelligence,Junior / Entry,1,SQL,8,12,66.67
+Business Intelligence,Junior / Entry,2,Tableau,8,12,66.67
+Business Intelligence,Junior / Entry,3,Power BI,7,12,58.33
+Business Intelligence,Junior / Entry,4,Excel,5,12,41.67
+Business Intelligence,Junior / Entry,5,Python,3,12,25.0
+Business Intelligence,Junior / Entry,6,Statistics / Experimentation,2,12,16.67
+Business Intelligence,Junior / Entry,7,R,1,12,8.33
+Business Intelligence,Junior / Entry,8,Azure,1,12,8.33
+Business Intelligence,Junior / Entry,9,Spark / Databricks,1,12,8.33
+Business Intelligence,Mid-Senior / Unspecified,1,SQL,32,42,76.19
+Business Intelligence,Mid-Senior / Unspecified,2,Power BI,22,42,52.38
+Business Intelligence,Mid-Senior / Unspecified,3,Tableau,17,42,40.48
+Business Intelligence,Mid-Senior / Unspecified,4,Python,13,42,30.95
+Business Intelligence,Mid-Senior / Unspecified,5,Excel,13,42,30.95
+Business Intelligence,Mid-Senior / Unspecified,6,R,10,42,23.81
+Business Intelligence,Mid-Senior / Unspecified,7,Statistics / Experimentation,10,42,23.81
+Business Intelligence,Mid-Senior / Unspecified,8,Azure,7,42,16.67
+Business Intelligence,Mid-Senior / Unspecified,9,Machine Learning,4,42,9.52
+Business Intelligence,Mid-Senior / Unspecified,10,Spark / Databricks,3,42,7.14
+Business Intelligence,Senior / Lead,1,SQL,32,50,64.0
+Business Intelligence,Senior / Lead,2,Tableau,28,50,56.0
+Business Intelligence,Senior / Lead,3,Power BI,23,50,46.0
+Business Intelligence,Senior / Lead,4,Python,13,50,26.0
+Business Intelligence,Senior / Lead,5,Statistics / Experimentation,12,50,24.0
+Business Intelligence,Senior / Lead,6,Excel,12,50,24.0
+Business Intelligence,Senior / Lead,7,Machine Learning,11,50,22.0
+Business Intelligence,Senior / Lead,8,R,8,50,16.0
+Business Intelligence,Senior / Lead,9,Azure,7,50,14.0
+Business Intelligence,Senior / Lead,10,Spark / Databricks,5,50,10.0
+Business Intelligence,Unspecified,1,SQL,34,39,87.18
+Business Intelligence,Unspecified,2,Power BI,22,39,56.41
+Business Intelligence,Unspecified,3,Tableau,18,39,46.15
+Business Intelligence,Unspecified,4,Python,18,39,46.15
+Business Intelligence,Unspecified,5,Statistics / Experimentation,17,39,43.59
+Business Intelligence,Unspecified,6,Excel,14,39,35.9
+Business Intelligence,Unspecified,7,Azure,10,39,25.64
+Business Intelligence,Unspecified,8,R,9,39,23.08
+Business Intelligence,Unspecified,9,AWS,9,39,23.08
+Business Intelligence,Unspecified,10,Machine Learning,6,39,15.38
+Data Analytics,Junior / Entry,1,Excel,57,173,32.95
+Data Analytics,Junior / Entry,2,SQL,49,173,28.32
+Data Analytics,Junior / Entry,3,Machine Learning,38,173,21.97
+Data Analytics,Junior / Entry,4,Statistics / Experimentation,38,173,21.97
+Data Analytics,Junior / Entry,5,Python,28,173,16.18
+Data Analytics,Junior / Entry,6,Power BI,20,173,11.56
+Data Analytics,Junior / Entry,7,Tableau,18,173,10.4
+Data Analytics,Junior / Entry,8,R,11,173,6.36
+Data Analytics,Junior / Entry,9,Spark / Databricks,7,173,4.05
+Data Analytics,Junior / Entry,10,Azure,7,173,4.05
+Data Analytics,Mid-Senior / Unspecified,1,Excel,117,324,36.11
+Data Analytics,Mid-Senior / Unspecified,2,SQL,109,324,33.64
+Data Analytics,Mid-Senior / Unspecified,3,Statistics / Experimentation,50,324,15.43
+Data Analytics,Mid-Senior / Unspecified,4,Tableau,48,324,14.81
+Data Analytics,Mid-Senior / Unspecified,5,Power BI,41,324,12.65
+Data Analytics,Mid-Senior / Unspecified,6,Python,38,324,11.73
+Data Analytics,Mid-Senior / Unspecified,7,R,28,324,8.64
+Data Analytics,Mid-Senior / Unspecified,8,AWS,24,324,7.41
+Data Analytics,Mid-Senior / Unspecified,9,Azure,16,324,4.94
+Data Analytics,Mid-Senior / Unspecified,10,Machine Learning,11,324,3.4
+Data Analytics,Senior / Lead,1,SQL,94,197,47.72
+Data Analytics,Senior / Lead,2,Excel,52,197,26.4
+Data Analytics,Senior / Lead,3,Power BI,41,197,20.81
+Data Analytics,Senior / Lead,4,Statistics / Experimentation,40,197,20.3
+Data Analytics,Senior / Lead,5,Python,36,197,18.27
+Data Analytics,Senior / Lead,6,Tableau,35,197,17.77
+Data Analytics,Senior / Lead,7,R,30,197,15.23
+Data Analytics,Senior / Lead,8,Machine Learning,18,197,9.14
+Data Analytics,Senior / Lead,9,AWS,15,197,7.61
+Data Analytics,Senior / Lead,10,Azure,11,197,5.58
+Data Analytics,Unspecified,1,SQL,145,323,44.89
+Data Analytics,Unspecified,2,Excel,107,323,33.13
+Data Analytics,Unspecified,3,Python,69,323,21.36
+Data Analytics,Unspecified,4,Statistics / Experimentation,55,323,17.03
+Data Analytics,Unspecified,5,Power BI,38,323,11.76
+Data Analytics,Unspecified,6,Tableau,32,323,9.91
+Data Analytics,Unspecified,7,R,20,323,6.19
+Data Analytics,Unspecified,8,Machine Learning,10,323,3.1
+Data Analytics,Unspecified,9,Azure,8,323,2.48
+Data Analytics,Unspecified,10,Git,6,323,1.86
+Data Engineering,Junior / Entry,1,Python,50,65,76.92
+Data Engineering,Junior / Entry,2,SQL,47,65,72.31
+Data Engineering,Junior / Entry,3,AWS,30,65,46.15
+Data Engineering,Junior / Entry,4,Spark / Databricks,29,65,44.62
+Data Engineering,Junior / Entry,5,Azure,24,65,36.92
+Data Engineering,Junior / Entry,6,Machine Learning,22,65,33.85
+Data Engineering,Junior / Entry,7,Statistics / Experimentation,17,65,26.15
+Data Engineering,Junior / Entry,8,GCP,12,65,18.46
+Data Engineering,Junior / Entry,9,Power BI,12,65,18.46
+Data Engineering,Junior / Entry,10,Tableau,8,65,12.31
+Data Engineering,Mid-Senior / Unspecified,1,SQL,69,83,83.13
+Data Engineering,Mid-Senior / Unspecified,2,Python,55,83,66.27
+Data Engineering,Mid-Senior / Unspecified,3,Azure,38,83,45.78
+Data Engineering,Mid-Senior / Unspecified,4,AWS,36,83,43.37
+Data Engineering,Mid-Senior / Unspecified,5,Spark / Databricks,35,83,42.17
+Data Engineering,Mid-Senior / Unspecified,6,GCP,21,83,25.3
+Data Engineering,Mid-Senior / Unspecified,7,Airflow,16,83,19.28
+Data Engineering,Mid-Senior / Unspecified,8,Machine Learning,14,83,16.87
+Data Engineering,Mid-Senior / Unspecified,9,Git,13,83,15.66
+Data Engineering,Mid-Senior / Unspecified,10,Power BI,12,83,14.46
+Data Engineering,Senior / Lead,1,SQL,152,175,86.86
+Data Engineering,Senior / Lead,2,Python,119,175,68.0
+Data Engineering,Senior / Lead,3,AWS,100,175,57.14
+Data Engineering,Senior / Lead,4,Spark / Databricks,100,175,57.14
+Data Engineering,Senior / Lead,5,Azure,84,175,48.0
+Data Engineering,Senior / Lead,6,GCP,41,175,23.43
+Data Engineering,Senior / Lead,7,Machine Learning,39,175,22.29
+Data Engineering,Senior / Lead,8,Airflow,29,175,16.57
+Data Engineering,Senior / Lead,9,Statistics / Experimentation,27,175,15.43
+Data Engineering,Senior / Lead,10,Git,27,175,15.43
+Data Engineering,Unspecified,1,SQL,77,96,80.21
+Data Engineering,Unspecified,2,Python,68,96,70.83
+Data Engineering,Unspecified,3,AWS,51,96,53.13
+Data Engineering,Unspecified,4,Spark / Databricks,47,96,48.96
+Data Engineering,Unspecified,5,Azure,29,96,30.21
+Data Engineering,Unspecified,6,Git,21,96,21.88
+Data Engineering,Unspecified,7,Power BI,19,96,19.79
+Data Engineering,Unspecified,8,GCP,18,96,18.75
+Data Engineering,Unspecified,9,Airflow,17,96,17.71
+Data Engineering,Unspecified,10,Machine Learning,14,96,14.58
+Data Science,Junior / Entry,1,Statistics / Experimentation,59,66,89.39
+Data Science,Junior / Entry,2,Python,54,66,81.82
+Data Science,Junior / Entry,3,Machine Learning,48,66,72.73
+Data Science,Junior / Entry,4,R,41,66,62.12
+Data Science,Junior / Entry,5,SQL,37,66,56.06
+Data Science,Junior / Entry,6,Tableau,11,66,16.67
+Data Science,Junior / Entry,7,Power BI,10,66,15.15
+Data Science,Junior / Entry,8,Excel,9,66,13.64
+Data Science,Junior / Entry,9,Spark / Databricks,7,66,10.61
+Data Science,Junior / Entry,10,Docker / Kubernetes,7,66,10.61
+Data Science,Mid-Senior / Unspecified,1,Machine Learning,27,35,77.14
+Data Science,Mid-Senior / Unspecified,2,Python,23,35,65.71
+Data Science,Mid-Senior / Unspecified,3,Statistics / Experimentation,22,35,62.86
+Data Science,Mid-Senior / Unspecified,4,SQL,14,35,40.0
+Data Science,Mid-Senior / Unspecified,5,Spark / Databricks,11,35,31.43
+Data Science,Mid-Senior / Unspecified,6,R,10,35,28.57
+Data Science,Mid-Senior / Unspecified,7,Docker / Kubernetes,6,35,17.14
+Data Science,Mid-Senior / Unspecified,8,Tableau,6,35,17.14
+Data Science,Mid-Senior / Unspecified,9,Power BI,3,35,8.57
+Data Science,Mid-Senior / Unspecified,10,GCP,3,35,8.57
+Data Science,Senior / Lead,1,Python,83,92,90.22
+Data Science,Senior / Lead,2,Machine Learning,82,92,89.13
+Data Science,Senior / Lead,3,Statistics / Experimentation,82,92,89.13
+Data Science,Senior / Lead,4,SQL,62,92,67.39
+Data Science,Senior / Lead,5,R,57,92,61.96
+Data Science,Senior / Lead,6,AWS,40,92,43.48
+Data Science,Senior / Lead,7,Spark / Databricks,35,92,38.04
+Data Science,Senior / Lead,8,GCP,16,92,17.39
+Data Science,Senior / Lead,9,Tableau,15,92,16.3
+Data Science,Senior / Lead,10,Azure,11,92,11.96
+Data Science,Unspecified,1,Python,49,51,96.08
+Data Science,Unspecified,2,Statistics / Experimentation,37,51,72.55
+Data Science,Unspecified,3,Machine Learning,37,51,72.55
+Data Science,Unspecified,4,SQL,36,51,70.59
+Data Science,Unspecified,5,R,34,51,66.67
+Data Science,Unspecified,6,Spark / Databricks,13,51,25.49
+Data Science,Unspecified,7,AWS,12,51,23.53
+Data Science,Unspecified,8,Tableau,12,51,23.53
+Data Science,Unspecified,9,GCP,11,51,21.57
+Data Science,Unspecified,10,Azure,11,51,21.57
+Machine Learning / AI,Junior / Entry,1,Machine Learning,20,22,90.91
+Machine Learning / AI,Junior / Entry,2,Python,18,22,81.82
+Machine Learning / AI,Junior / Entry,3,Statistics / Experimentation,11,22,50.0
+Machine Learning / AI,Junior / Entry,4,SQL,6,22,27.27
+Machine Learning / AI,Junior / Entry,5,Git,6,22,27.27
+Machine Learning / AI,Junior / Entry,6,Azure,3,22,13.64
+Machine Learning / AI,Junior / Entry,7,Spark / Databricks,3,22,13.64
+Machine Learning / AI,Junior / Entry,8,Docker / Kubernetes,3,22,13.64
+Machine Learning / AI,Junior / Entry,9,Excel,2,22,9.09
+Machine Learning / AI,Junior / Entry,10,AWS,2,22,9.09
+Machine Learning / AI,Mid-Senior / Unspecified,1,Machine Learning,36,36,100.0
+Machine Learning / AI,Mid-Senior / Unspecified,2,Python,30,36,83.33
+Machine Learning / AI,Mid-Senior / Unspecified,3,Statistics / Experimentation,15,36,41.67
+Machine Learning / AI,Mid-Senior / Unspecified,4,AWS,13,36,36.11
+Machine Learning / AI,Mid-Senior / Unspecified,5,Spark / Databricks,13,36,36.11
+Machine Learning / AI,Mid-Senior / Unspecified,6,Azure,11,36,30.56
+Machine Learning / AI,Mid-Senior / Unspecified,7,GCP,10,36,27.78
+Machine Learning / AI,Mid-Senior / Unspecified,8,SQL,10,36,27.78
+Machine Learning / AI,Mid-Senior / Unspecified,9,R,6,36,16.67
+Machine Learning / AI,Mid-Senior / Unspecified,10,Git,2,36,5.56
+Machine Learning / AI,Senior / Lead,1,Machine Learning,73,78,93.59
+Machine Learning / AI,Senior / Lead,2,Python,61,78,78.21
+Machine Learning / AI,Senior / Lead,3,Statistics / Experimentation,35,78,44.87
+Machine Learning / AI,Senior / Lead,4,GCP,24,78,30.77
+Machine Learning / AI,Senior / Lead,5,AWS,23,78,29.49
+Machine Learning / AI,Senior / Lead,6,Spark / Databricks,22,78,28.21
+Machine Learning / AI,Senior / Lead,7,Azure,22,78,28.21
+Machine Learning / AI,Senior / Lead,8,SQL,21,78,26.92
+Machine Learning / AI,Senior / Lead,9,Docker / Kubernetes,17,78,21.79
+Machine Learning / AI,Senior / Lead,10,R,8,78,10.26
+Machine Learning / AI,Unspecified,1,Machine Learning,44,45,97.78
+Machine Learning / AI,Unspecified,2,Python,32,45,71.11
+Machine Learning / AI,Unspecified,3,Statistics / Experimentation,14,45,31.11
+Machine Learning / AI,Unspecified,4,R,13,45,28.89
+Machine Learning / AI,Unspecified,5,Azure,8,45,17.78
+Machine Learning / AI,Unspecified,6,Docker / Kubernetes,7,45,15.56
+Machine Learning / AI,Unspecified,7,AWS,7,45,15.56
+Machine Learning / AI,Unspecified,8,Spark / Databricks,7,45,15.56
+Machine Learning / AI,Unspecified,9,GCP,6,45,13.33
+Machine Learning / AI,Unspecified,10,SQL,6,45,13.33
