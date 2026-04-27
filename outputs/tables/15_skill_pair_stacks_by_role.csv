@@ -1,17 +1,17 @@
 role_category,pair_rank,skill_pair,n_jobs,total_jobs,pct_jobs_in_role
-Business Intelligence,1,SQL + Tableau,60,143,41.96
-Business Intelligence,2,Power BI + SQL,60,143,41.96
+Business Intelligence,1,Power BI + SQL,60,143,41.96
+Business Intelligence,2,SQL + Tableau,60,143,41.96
 Business Intelligence,3,Python + SQL,42,143,29.37
 Business Intelligence,4,Power BI + Tableau,37,143,25.87
-Business Intelligence,5,Excel + SQL,36,143,25.17
-Business Intelligence,6,SQL + Statistics / Experimentation,36,143,25.17
+Business Intelligence,5,SQL + Statistics / Experimentation,36,143,25.17
+Business Intelligence,6,Excel + SQL,36,143,25.17
 Business Intelligence,7,Python + Tableau,31,143,21.68
 Business Intelligence,8,Statistics / Experimentation + Tableau,28,143,19.58
-Business Intelligence,9,Power BI + Python,27,143,18.88
-Business Intelligence,10,R + SQL,27,143,18.88
-Business Intelligence,11,Python + Statistics / Experimentation,25,143,17.48
-Business Intelligence,12,Azure + Power BI,25,143,17.48
-Business Intelligence,13,Excel + Tableau,25,143,17.48
+Business Intelligence,9,R + SQL,27,143,18.88
+Business Intelligence,10,Power BI + Python,27,143,18.88
+Business Intelligence,11,Azure + Power BI,25,143,17.48
+Business Intelligence,12,Excel + Tableau,25,143,17.48
+Business Intelligence,13,Python + Statistics / Experimentation,25,143,17.48
 Business Intelligence,14,R + Tableau,24,143,16.78
 Business Intelligence,15,Python + R,23,143,16.08
 Data Analytics,1,Excel + SQL,157,1017,15.44
@@ -43,7 +43,7 @@ Data Engineering,11,GCP + SQL,87,419,20.76
 Data Engineering,12,AWS + GCP,75,419,17.9
 Data Engineering,13,Azure + GCP,74,419,17.66
 Data Engineering,14,Machine Learning + Python,72,419,17.18
-Data Engineering,15,GCP + Python,70,419,16.71
+Data Engineering,15,Machine Learning + SQL,70,419,16.71
 Data Science,1,Machine Learning + Statistics / Experimentation,171,244,70.08
 Data Science,2,Machine Learning + Python,171,244,70.08
 Data Science,3,Python + Statistics / Experimentation,170,244,69.67
@@ -66,11 +66,11 @@ Machine Learning / AI,4,Machine Learning + Spark / Databricks,45,181,24.86
 Machine Learning / AI,5,AWS + Machine Learning,45,181,24.86
 Machine Learning / AI,6,Python + Spark / Databricks,43,181,23.76
 Machine Learning / AI,7,Machine Learning + SQL,43,181,23.76
-Machine Learning / AI,8,AWS + Python,42,181,23.2
-Machine Learning / AI,9,Azure + Machine Learning,42,181,23.2
+Machine Learning / AI,8,Azure + Machine Learning,42,181,23.2
+Machine Learning / AI,9,AWS + Python,42,181,23.2
 Machine Learning / AI,10,Python + SQL,41,181,22.65
-Machine Learning / AI,11,Azure + Python,40,181,22.1
-Machine Learning / AI,12,GCP + Machine Learning,40,181,22.1
+Machine Learning / AI,11,GCP + Machine Learning,40,181,22.1
+Machine Learning / AI,12,Azure + Python,40,181,22.1
 Machine Learning / AI,13,GCP + Python,36,181,19.89
 Machine Learning / AI,14,AWS + GCP,28,181,15.47
 Machine Learning / AI,15,Azure + GCP,28,181,15.47

@@ -12,8 +12,8 @@ Business Intelligence,AWS,14,143,9.79
 Business Intelligence,Spark / Databricks,12,143,8.39
 Business Intelligence,GCP,3,143,2.1
 Business Intelligence,Git,3,143,2.1
-Business Intelligence,Docker / Kubernetes,1,143,0.7
 Business Intelligence,Airflow,1,143,0.7
+Business Intelligence,Docker / Kubernetes,1,143,0.7
 Data Analytics,SQL,397,1017,39.04
 Data Analytics,Excel,333,1017,32.74
 Data Analytics,Statistics / Experimentation,183,1017,17.99
@@ -38,8 +38,8 @@ Data Engineering,GCP,92,419,21.96
 Data Engineering,Machine Learning,89,419,21.24
 Data Engineering,Airflow,68,419,16.23
 Data Engineering,Git,67,419,15.99
-Data Engineering,Power BI,62,419,14.8
 Data Engineering,Statistics / Experimentation,62,419,14.8
+Data Engineering,Power BI,62,419,14.8
 Data Engineering,Tableau,47,419,11.22
 Data Engineering,R,41,419,9.79
 Data Engineering,Docker / Kubernetes,40,419,9.55
@@ -62,8 +62,8 @@ Data Science,Airflow,6,244,2.46
 Machine Learning / AI,Machine Learning,173,181,95.58
 Machine Learning / AI,Python,141,181,77.9
 Machine Learning / AI,Statistics / Experimentation,75,181,41.44
-Machine Learning / AI,Spark / Databricks,45,181,24.86
 Machine Learning / AI,AWS,45,181,24.86
+Machine Learning / AI,Spark / Databricks,45,181,24.86
 Machine Learning / AI,Azure,44,181,24.31
 Machine Learning / AI,SQL,43,181,23.76
 Machine Learning / AI,GCP,40,181,22.1
