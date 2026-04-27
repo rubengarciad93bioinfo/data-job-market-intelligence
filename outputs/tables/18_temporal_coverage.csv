@@ -1,2 +1,2 @@
-first_listed_date,last_listed_date,n_jobs_with_date,n_months
-2024-04-05,2024-04-20,2004,1
+first_original_listed_date,last_original_listed_date,n_jobs_with_original_listed_date,n_distinct_days,n_distinct_weeks,n_distinct_months
+2024-03-06,2024-04-20,2004,32,7,2
