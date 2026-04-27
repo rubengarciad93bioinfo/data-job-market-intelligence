@@ -1,0 +1,49 @@
+original_listed_week,skill,n_jobs
+2024-03-04,Machine Learning,1
+2024-03-11,Statistics / Experimentation,5
+2024-03-11,SQL,5
+2024-03-11,Machine Learning,4
+2024-03-11,Excel,4
+2024-03-11,Python,3
+2024-03-11,R,2
+2024-03-11,Spark / Databricks,1
+2024-03-18,SQL,10
+2024-03-18,Python,9
+2024-03-18,Machine Learning,7
+2024-03-18,R,7
+2024-03-18,Statistics / Experimentation,6
+2024-03-18,Excel,6
+2024-03-18,Spark / Databricks,3
+2024-03-18,AWS,2
+2024-03-25,Statistics / Experimentation,11
+2024-03-25,SQL,9
+2024-03-25,Python,8
+2024-03-25,Machine Learning,6
+2024-03-25,Excel,5
+2024-03-25,R,4
+2024-03-25,AWS,4
+2024-03-25,Spark / Databricks,1
+2024-04-01,SQL,80
+2024-04-01,Python,67
+2024-04-01,Statistics / Experimentation,53
+2024-04-01,Machine Learning,47
+2024-04-01,AWS,41
+2024-04-01,Excel,35
+2024-04-01,Spark / Databricks,30
+2024-04-01,R,25
+2024-04-08,SQL,207
+2024-04-08,Python,174
+2024-04-08,Statistics / Experimentation,120
+2024-04-08,Machine Learning,114
+2024-04-08,Spark / Databricks,87
+2024-04-08,AWS,84
+2024-04-08,R,73
+2024-04-08,Excel,71
+2024-04-15,SQL,729
+2024-04-15,Python,599
+2024-04-15,Machine Learning,375
+2024-04-15,Statistics / Experimentation,366
+2024-04-15,Excel,295
+2024-04-15,AWS,254
+2024-04-15,Spark / Databricks,235
+2024-04-15,R,217

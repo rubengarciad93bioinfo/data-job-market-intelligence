@@ -10,8 +10,8 @@ Business Intelligence,Azure,25,143,17.48
 Business Intelligence,Machine Learning,21,143,14.69
 Business Intelligence,AWS,14,143,9.79
 Business Intelligence,Spark / Databricks,12,143,8.39
-Business Intelligence,GCP,3,143,2.1
 Business Intelligence,Git,3,143,2.1
+Business Intelligence,GCP,3,143,2.1
 Business Intelligence,Airflow,1,143,0.7
 Business Intelligence,Docker / Kubernetes,1,143,0.7
 Data Analytics,SQL,397,1017,39.04
@@ -56,14 +56,14 @@ Data Science,GCP,35,244,14.34
 Data Science,Power BI,30,244,12.3
 Data Science,Azure,27,244,11.07
 Data Science,Docker / Kubernetes,25,244,10.25
-Data Science,Git,19,244,7.79
 Data Science,Excel,19,244,7.79
+Data Science,Git,19,244,7.79
 Data Science,Airflow,6,244,2.46
 Machine Learning / AI,Machine Learning,173,181,95.58
 Machine Learning / AI,Python,141,181,77.9
 Machine Learning / AI,Statistics / Experimentation,75,181,41.44
-Machine Learning / AI,AWS,45,181,24.86
 Machine Learning / AI,Spark / Databricks,45,181,24.86
+Machine Learning / AI,AWS,45,181,24.86
 Machine Learning / AI,Azure,44,181,24.31
 Machine Learning / AI,SQL,43,181,23.76
 Machine Learning / AI,GCP,40,181,22.1
