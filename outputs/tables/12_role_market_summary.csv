@@ -1,0 +1,6 @@
+role_category,n_jobs,pct_market_share,n_jobs_with_salary,pct_with_clean_salary,median_salary,n_remote_explicit,pct_remote_explicit
+Data Analytics,1017,50.75,297,29.2,100000.0,287.0,28.22
+Data Engineering,419,20.91,132,31.5,140400.0,132.0,31.5
+Data Science,244,12.18,88,36.07,162200.0,74.0,30.33
+Machine Learning / AI,181,9.03,62,34.25,177855.0,53.0,29.28
+Business Intelligence,143,7.14,58,40.56,123875.0,38.0,26.57

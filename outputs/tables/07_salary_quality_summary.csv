@@ -1,0 +1,5 @@
+salary_quality_flag,n_jobs,pct_jobs
+no_salary,1363,68.01
+valid,630,31.44
+annualized_from_likely_hourly_mislabeled_as_yearly,7,0.35
+too_high_or_outlier,4,0.2

@@ -1,0 +1,48 @@
+role_category,remote_allowed,formatted_work_type,n_jobs
+Business Intelligence,1.0,Full-time,29
+Business Intelligence,1.0,Contract,9
+Business Intelligence,,Full-time,83
+Business Intelligence,,Contract,18
+Business Intelligence,,Part-time,2
+Business Intelligence,,Internship,2
+Data Analytics,1.0,Full-time,137
+Data Analytics,1.0,Contract,132
+Data Analytics,1.0,Part-time,15
+Data Analytics,1.0,Temporary,2
+Data Analytics,1.0,Internship,1
+Data Analytics,,Full-time,468
+Data Analytics,,Contract,249
+Data Analytics,,Internship,6
+Data Analytics,,Temporary,4
+Data Analytics,,Part-time,2
+Data Analytics,,Other,1
+Data Engineering,1.0,Full-time,88
+Data Engineering,1.0,Contract,41
+Data Engineering,1.0,Part-time,2
+Data Engineering,1.0,Internship,1
+Data Engineering,,Full-time,208
+Data Engineering,,Contract,69
+Data Engineering,,Other,3
+Data Engineering,,Internship,3
+Data Engineering,,Temporary,2
+Data Engineering,,Part-time,1
+Data Engineering,,Volunteer,1
+Data Science,1.0,Full-time,53
+Data Science,1.0,Contract,18
+Data Science,1.0,Part-time,3
+Data Science,,Full-time,141
+Data Science,,Contract,20
+Data Science,,Other,5
+Data Science,,Internship,2
+Data Science,,Volunteer,1
+Data Science,,Part-time,1
+Machine Learning / AI,1.0,Full-time,46
+Machine Learning / AI,1.0,Contract,4
+Machine Learning / AI,1.0,Internship,1
+Machine Learning / AI,1.0,Part-time,1
+Machine Learning / AI,1.0,Volunteer,1
+Machine Learning / AI,,Full-time,103
+Machine Learning / AI,,Contract,20
+Machine Learning / AI,,Internship,3
+Machine Learning / AI,,Temporary,1
+Machine Learning / AI,,Part-time,1

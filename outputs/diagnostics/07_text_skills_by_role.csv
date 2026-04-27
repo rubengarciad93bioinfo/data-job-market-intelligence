@@ -1,0 +1,76 @@
+role_category,skill,n_jobs,total_jobs,pct_jobs_in_role
+Business Intelligence,SQL,103,143,72.03
+Business Intelligence,Excel,77,143,53.85
+Business Intelligence,Power BI,74,143,51.75
+Business Intelligence,Tableau,73,143,51.05
+Business Intelligence,Python,51,143,35.66
+Business Intelligence,Statistics / Experimentation,41,143,28.67
+Business Intelligence,R,28,143,19.58
+Business Intelligence,AWS,26,143,18.18
+Business Intelligence,Azure,25,143,17.48
+Business Intelligence,Machine Learning,25,143,17.48
+Business Intelligence,Git,24,143,16.78
+Business Intelligence,Spark / Databricks,14,143,9.79
+Business Intelligence,GCP,3,143,2.1
+Business Intelligence,Docker / Kubernetes,1,143,0.7
+Business Intelligence,Airflow,1,143,0.7
+Data Analytics,Excel,620,1017,60.96
+Data Analytics,SQL,388,1017,38.15
+Data Analytics,Git,186,1017,18.29
+Data Analytics,Statistics / Experimentation,185,1017,18.19
+Data Analytics,Python,183,1017,17.99
+Data Analytics,Power BI,140,1017,13.77
+Data Analytics,Tableau,140,1017,13.77
+Data Analytics,AWS,131,1017,12.88
+Data Analytics,Machine Learning,123,1017,12.09
+Data Analytics,R,89,1017,8.75
+Data Analytics,Azure,43,1017,4.23
+Data Analytics,Spark / Databricks,24,1017,2.36
+Data Analytics,GCP,20,1017,1.97
+Data Analytics,Docker / Kubernetes,6,1017,0.59
+Data Analytics,Airflow,2,1017,0.2
+Data Engineering,SQL,309,419,73.75
+Data Engineering,Python,302,419,72.08
+Data Engineering,AWS,238,419,56.8
+Data Engineering,Spark / Databricks,218,419,52.03
+Data Engineering,Azure,180,419,42.96
+Data Engineering,Excel,160,419,38.19
+Data Engineering,Git,125,419,29.83
+Data Engineering,Machine Learning,104,419,24.82
+Data Engineering,GCP,93,419,22.2
+Data Engineering,Airflow,76,419,18.14
+Data Engineering,Power BI,62,419,14.8
+Data Engineering,Statistics / Experimentation,62,419,14.8
+Data Engineering,Tableau,49,419,11.69
+Data Engineering,Docker / Kubernetes,40,419,9.55
+Data Engineering,R,40,419,9.55
+Data Science,Python,216,244,88.52
+Data Science,Machine Learning,200,244,81.97
+Data Science,Statistics / Experimentation,200,244,81.97
+Data Science,SQL,148,244,60.66
+Data Science,R,142,244,58.2
+Data Science,Excel,130,244,53.28
+Data Science,AWS,85,244,34.84
+Data Science,Spark / Databricks,68,244,27.87
+Data Science,Git,54,244,22.13
+Data Science,Tableau,45,244,18.44
+Data Science,GCP,35,244,14.34
+Data Science,Power BI,30,244,12.3
+Data Science,Azure,27,244,11.07
+Data Science,Docker / Kubernetes,25,244,10.25
+Data Science,Airflow,6,244,2.46
+Machine Learning / AI,Machine Learning,173,181,95.58
+Machine Learning / AI,Python,141,181,77.9
+Machine Learning / AI,Statistics / Experimentation,76,181,41.99
+Machine Learning / AI,Excel,75,181,41.44
+Machine Learning / AI,AWS,58,181,32.04
+Machine Learning / AI,Git,47,181,25.97
+Machine Learning / AI,Spark / Databricks,47,181,25.97
+Machine Learning / AI,Azure,45,181,24.86
+Machine Learning / AI,GCP,40,181,22.1
+Machine Learning / AI,SQL,38,181,20.99
+Machine Learning / AI,Docker / Kubernetes,28,181,15.47
+Machine Learning / AI,R,27,181,14.92
+Machine Learning / AI,Power BI,6,181,3.31
+Machine Learning / AI,Airflow,5,181,2.76
+Machine Learning / AI,Tableau,2,181,1.1

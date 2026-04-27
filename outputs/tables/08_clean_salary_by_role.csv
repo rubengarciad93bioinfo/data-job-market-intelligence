@@ -1,0 +1,6 @@
+role_category,n_jobs,n_jobs_with_clean_salary,pct_with_clean_salary,median_salary,mean_salary,p25_salary,p75_salary
+Machine Learning / AI,181,62,34.25,177855.0,181940.0,159225.0,207500.0
+Data Science,244,88,36.07,162200.0,157177.0,117489.0,182750.0
+Data Engineering,419,132,31.5,140400.0,149673.0,125000.0,170400.0
+Business Intelligence,143,58,40.56,123875.0,125128.0,101000.0,139375.0
+Data Analytics,1017,297,29.2,100000.0,105907.0,81947.0,125000.0

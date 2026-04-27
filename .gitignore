@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and heavy data
+data/raw/
+data/processed/*.duckdb
+data/processed/*.db
+data/processed/*.sqlite
+*.zip
+
+# macOS
+.DS_Store
+
+# Temporary folders
+untitled folder/
+lovable_package/
+lovable_package.zip

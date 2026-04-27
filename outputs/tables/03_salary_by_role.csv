@@ -1,0 +1,6 @@
+role_category,n_jobs_with_salary,median_salary,mean_salary,min_salary,max_salary
+Machine Learning / AI,63,178910.0,185560.0,55443.0,410000.0
+Data Science,88,162200.0,156114.0,45.0,252844.0
+Data Engineering,135,140400.0,203306.0,75.0,6900400.0
+Business Intelligence,58,123875.0,125128.0,35360.0,265000.0
+Data Analytics,297,100000.0,103593.0,33.0,260000.0

@@ -1,0 +1,16 @@
+skill,n_jobs,pct_of_data_jobs
+Excel,1062,52.99
+SQL,986,49.2
+Python,893,44.56
+Machine Learning,625,31.19
+Statistics / Experimentation,564,28.14
+AWS,538,26.85
+Git,436,21.76
+Spark / Databricks,371,18.51
+R,326,16.27
+Azure,320,15.97
+Power BI,312,15.57
+Tableau,309,15.42
+GCP,191,9.53
+Docker / Kubernetes,100,4.99
+Airflow,90,4.49

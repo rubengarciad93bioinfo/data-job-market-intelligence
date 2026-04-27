@@ -1,0 +1,5 @@
+job_id,role_category,title,company_name,location,pay_period,min_salary,med_salary,max_salary,normalized_salary,currency,formatted_work_type,formatted_experience_level,job_posting_url
+3898171094,Data Engineering,Data Engineer,Koantek,United States,HOURLY,65.0,,6570.0,6900400.0,USD,Part-time,Mid-Senior level,https://www.linkedin.com/jobs/view/3898171094/?trk=jobs_biz_prem_srch
+3889125185,Data Engineering,Vice President of Data Engineering,Sourcechange,United States,YEARLY,400000.0,,600000.0,500000.0,USD,Full-time,,https://www.linkedin.com/jobs/view/3889125185/?trk=jobs_biz_prem_srch
+3905289787,Data Engineering,Analytics Engineer (L4/5) - Pricing and Forecasting,Netflix,"Los Gatos, CA",YEARLY,170000.0,,720000.0,445000.0,USD,Full-time,,https://www.linkedin.com/jobs/view/3905289787/?trk=jobs_biz_prem_srch
+3887710459,Machine Learning / AI,"ML Engineer L5, LLM Application Frameworks, Machine Learning Platform",Netflix,"Los Gatos, CA",YEARLY,100000.0,,720000.0,410000.0,USD,Full-time,,https://www.linkedin.com/jobs/view/3887710459/?trk=jobs_biz_prem_srch

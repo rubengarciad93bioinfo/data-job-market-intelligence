@@ -1,0 +1,6 @@
+role_category,n_jobs,n_remote_explicit,n_remote_zero,n_remote_unknown,pct_explicit_remote,pct_unknown
+Data Engineering,419,132.0,0.0,287.0,31.5,68.5
+Data Science,244,74.0,0.0,170.0,30.33,69.67
+Machine Learning / AI,181,53.0,0.0,128.0,29.28,70.72
+Data Analytics,1017,287.0,0.0,730.0,28.22,71.78
+Business Intelligence,143,38.0,0.0,105.0,26.57,73.43
